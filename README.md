@@ -1,4 +1,4 @@
-# Unlimited Filter Bot
+# UFS Unlimited Filter Bot
 
 
 <p align="center">
@@ -8,22 +8,22 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/jinspalakkattu/UFS-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/jinspalakkattu/UFS-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/jinspalakkattu/UFS-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/jinspalakkattu/UFS-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![UFS](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/joinchat/7qlEga5lO0o2MTg0)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![UFS](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://t.me/joinchat/YS-WlsUC9nFiOWM0)  [![UFS](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://t.me/joinchat/YS-WlsUC9nFiOWM0)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/jinspalakkattu/UFS-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jinspalakkattu/UFS-Filter-Bot)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
