@@ -6,11 +6,11 @@
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "UFS"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/joinchat/YS-WlsUC9nFiOWM0",
+    "repository": "https://github.com/jinspalakkattu/UFS-Filter-Bot",
+    "success_url": "https://t.me/joinchat/YS-WlsUC9nFiOWM0",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
