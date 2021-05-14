@@ -19,9 +19,9 @@
   </a>  
 </p>
 
-[![UFS](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/joinchat/7qlEga5lO0o2MTg0)  
+[![UFS](https://img.shields.io/badge/UniveralFilmStudio-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/joinchat/7qlEga5lO0o2MTg0)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![UFS](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://t.me/joinchat/YS-WlsUC9nFiOWM0)  [![UFS](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://t.me/joinchat/YS-WlsUC9nFiOWM0)  
+[![UFS](https://img.shields.io/badge/UniveralFilmStudio-Support-red?style=flat&logo=telegram)](https://t.me/joinchat/YS-WlsUC9nFiOWM0)  [![UFS](https://img.shields.io/badge/UniveralFilmStudio-Website-red?style=flat&logo=CodersRank)](https://t.me/joinchat/YS-WlsUC9nFiOWM0)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/jinspalakkattu/UFS-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jinspalakkattu/UFS-Filter-Bot)
 
@@ -79,7 +79,7 @@
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [UFSSupport](https://t.me/joinchat/YS-WlsUC9nFiOWM0)
 
 
 ## Installation
