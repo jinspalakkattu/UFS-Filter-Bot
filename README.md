@@ -79,7 +79,7 @@
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
 
-## Any bugs or errors or suggestions, report at [UFSSupport](https://t.me/joinchat/YS-WlsUC9nFiOWM0)
+## Any bugs or errors or suggestions, report at [UFS Support](https://t.me/joinchat/YS-WlsUC9nFiOWM0)
 
 
 ## Installation
